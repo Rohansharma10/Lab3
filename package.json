@@ -1,0 +1,11 @@
+{
+    "name": "node-express-handlebars-example",
+    "version": "1.0.0",
+    "description": "A simple example of using Node.js, Express, and Handlebars to display JSON data on a webpage.",
+    "main": "index.js",
+    "dependencies": {
+      "express": "^4.17.1",
+      "handlebars": "^"
+    }  
+
+  }
